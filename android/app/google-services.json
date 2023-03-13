@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765357731027",
+    "project_id": "kartkick-259b1",
+    "storage_bucket": "kartkick-259b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765357731027:android:4a7faddf4756af87d9b826",
+        "android_client_info": {
+          "package_name": "com.karkkick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765357731027-5jldh2db95lcrmgmkdkfbrppd2deefn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6M9tx0b37hkPh-jTVj3MxgJvY9FzyRHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765357731027-5jldh2db95lcrmgmkdkfbrppd2deefn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
